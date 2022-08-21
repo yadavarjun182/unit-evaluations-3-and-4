@@ -1,0 +1,86 @@
+{
+  "hospitalData": [
+    {
+      "name": "Sarkari",
+      "address": "Unchapul",
+      "id": 1
+    },
+    {
+      "name": "Sai Hospital",
+      "address": "Muukhani",
+      "id": 2
+    },
+    {
+      
+      "name": "Brijlal",
+      "address": "near KFC",
+      "id": 3
+    },
+    {
+      "name": "AIIMS",
+      "address": "Delhi",
+      "id": 4
+    },
+    {
+      "name": "Shree",
+      "address": "KHdalwani",
+      "id": 5
+    },
+    {
+      "name": "None",
+      "address": "asdas",
+      "id": 6
+    }
+  ],
+  "doctorsData": [
+    {
+      "name": "Astha",
+      "hospital": "Sarkari",
+      "profession": "General",
+      "salary": "2313",
+      "id": 1
+    },
+    {
+      "name": "Astha",
+      "hospital": "Sarkari",
+      "profession": "General",
+      "salary": "2313",
+      "id": 1
+    },
+    {
+      "name": "Astha",
+      "hospital": "Sarkari",
+      "profession": "General",
+      "salary": "2313",
+      "id": 1
+    },
+    {
+      "name": "Astha",
+      "hospital": "Sarkari",
+      "profession": "General",
+      "salary": "2313",
+      "id": 1
+    },
+    {
+      "name": "Astha",
+      "hospital": "Sarkari",
+      "profession": "General",
+      "salary": "2313",
+      "id": 1
+    },
+    {
+      "name": "Astha",
+      "hospital": "Sarkari",
+      "profession": "General",
+      "salary": "2313",
+      "id": 1
+    },
+    {
+      "name": "suri",
+      "hospital": "AIIMS",
+      "profession": "Radiologist",
+      "salary": "2313213",
+      "id": 3
+    }
+  ]
+}
